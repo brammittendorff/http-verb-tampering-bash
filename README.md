@@ -17,7 +17,7 @@ Usage:
 Usage: /bin/bash tampering.sh HOST PATH PORT
 ```
 
-When you execute the generated commands you will see different data as the GET request. The rest is up to you.
+When you execute the generated commands you will see different reponse data. And the rest is up to you.
 
 OWASP:
 https://www.owasp.org/index.php/Testing_for_HTTP_Verb_Tampering_(OTG-INPVAL-003)
