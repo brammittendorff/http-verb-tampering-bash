@@ -12,5 +12,5 @@ if [ ! -z $HOST ] && [ ! -z $PATH ] && [ ! -x $PORT ]; then
                 echo "nc $HOST $PORT < $TYPE.http.txt"
         done
 else
-        echo "Usage: ./tampering.sh HOST PATH PORT"
+        echo "Usage: /bin/bash tampering.sh HOST PATH PORT"
 fi
