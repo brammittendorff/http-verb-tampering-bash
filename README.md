@@ -7,7 +7,7 @@ There is a challenge at root-me.org:
 http://www.root-me.org/en/Challenges/Web-Server/HTTP-verb-tampering
 ```
 
-And so I created a script that automaticly generates request to show how verb tampering works.
+And so I created a script that automaticly generates requests to crack the case at root-me.org and show how verb tampering works.
 ```bash
 /bin/bash tampering.sh challenge01.root-me.org /web-serveur/ch8/ 80
 ```
